@@ -1,6 +1,6 @@
 # Privacy Policy for Recursify
 
-**Last updated: February 09, 2026**
+**Last updated: August 09, 2026**
 
 Recursify ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Recursify.
 
@@ -41,4 +41,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 6. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Insert Your Email Here].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at thesimplifierplus@gmail.com
